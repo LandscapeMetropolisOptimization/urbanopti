@@ -21,19 +21,20 @@ setup(
     url='https://github.com/merraksh/urbanopti',
     author='Pietro Belotti',
     author_email='pietro.belotti@polimi.it',
+    license='Eclipse Public License v2.0 / Eclipse Distribution License v2.0',
     classifiers=[
         # How mature is this project? Common values are
         #   3 - Alpha
         #   4 - Beta
         #   5 - Production/Stable
-        'Development Status :: 3 - Beta',
+        'Development Status :: 4 - Beta',
 
         # Indicate who your project is intended for
         'Intended Audience :: Developers',
         'Topic :: Software Development :: Build Tools',
 
         # Pick your license as you wish
-        'License :: OSI Approved :: Eclipse Public License',
+        'License :: OSI Approved',
 
         # Specify the Python versions you support here. In particular, ensure
         # that you indicate you support Python 3. These classifiers are *not*
